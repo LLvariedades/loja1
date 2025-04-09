@@ -1,0 +1,12 @@
+<main class="p-6 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+  <!-- Produto antigo -->
+  ...
+  
+  <!-- Luminária Panda -->
+  <div class="bg-white text-black rounded-2xl shadow-lg p-4">
+    <img src="26a0d75eb10c74688a2fe7f089c6b2083.webp" alt="Luminária Panda" class="rounded-xl w-full h-48 object-contain mb-4">
+    <h2 class="text-xl font-semibold mb-2">Luminária Panda</h2>
+    <p class="mb-2">Abajur noturno com toque fofo e recarregável. Ideal para decorar e iluminar com estilo.</p>
+    <span class="font-bold text-primario">R$ 65,00</span>
+  </div>
+</main>
